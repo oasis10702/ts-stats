@@ -2,6 +2,7 @@ import { MatchReader } from './MatchReader';
 import { CsvFileReader } from './CsvFileReader';
 import { MatchResult } from './MatchResult';
 
+// Composition
 // Create an object that statisfies the "DataReader" interface
 const csvFileReader = new CsvFileReader('football.csv');
 
