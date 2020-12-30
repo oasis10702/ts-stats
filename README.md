@@ -1,1 +1,3 @@
-### Statistical Data Analysis - TypeScript Sample
+# Statistical Data Analysis
+
+## TypeScript Sample
